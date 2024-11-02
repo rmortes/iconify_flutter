@@ -80,7 +80,7 @@ Zondicons.iconsList // List of all icons of VS Code icon set
 
 ## Dreams 💭
 
-- [ ] Get first 100 stars on [github.com](https://github.com/andronasef/iconify_flutter/)
+- [x] Get first 100 stars on [github.com](https://github.com/andronasef/iconify_flutter/)
 - [ ] Get Flutter Favourite Badge
 - [x] Get first 100 likes on [pub.dev](https://pub.dev/packages/iconify_flutter/)
 - [x] Add colorful icons to iconify_flutter
